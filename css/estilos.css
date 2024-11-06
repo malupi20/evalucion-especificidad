@@ -1,0 +1,28 @@
+*{box-sizing:border-box}
+h1:nth-of-type(1) {
+   color: rgb(104, 159, 223) ;
+   text-align: center;
+}
+:root{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(80, 245, 231);
+}
+body{
+    background-color: rgb(170, 214, 214);
+    font-size: larger;
+}
+h2:nth-of-type(1){
+    color: rgb(135, 178, 212);
+    text-align: center;
+}
+p{
+    color: rgb(187, 84, 161);
+    text-align: center;
+}
+#mi-id{
+    color: rgb(6, 80, 67); 
+    text-align: center;
+  }
+#mDos {
+    color: rgb(9, 67, 82);
+}
